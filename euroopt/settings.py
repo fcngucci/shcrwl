@@ -72,6 +72,7 @@ DOWNLOADER_MIDDLEWARES = {
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'euroopt.pipelines.ItemPipeline': 300,
+    'euroopt.pipelines.ProdPipeline': 300,
     'euroopt.pipelines.EurooptPipeline': 300,
 }
 

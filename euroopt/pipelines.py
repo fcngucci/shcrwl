@@ -13,6 +13,22 @@ class EurooptPipeline:
         return item
 
 
+class ProdPipeline(object):
+
+	def process_item(self, item, spider):
+		self.conn = mysql.connector.connect(db='euroopt', user='root', password='856940TIpo$', host='localhost')
+		self.cursor = self.conn.cursor()
+
+		insert_sql = "INSERT INTO products(link_prod, title_prod) VALUES (%s,%s)"
+		
+		self.cursor.execute(insert_sql,
+			(
+				item.get('item_link'), item.get('item_name')
+				)
+			)
+		self.conn.commit()
+		return item
+
 
 class ItemPipeline(object):
 
