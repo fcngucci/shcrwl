@@ -1,0 +1,112 @@
+b'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36'
+https://e-dostavka.by/catalog/item_1013305.html	Шаурма классическая замороженная, 1/300 .
+https://e-dostavka.by/catalog/item_1013293.html	Чиабатта с беконом, омлетом и зеленью замороженное, 1/250 .
+https://e-dostavka.by/catalog/item_1013303.html	Шаурма мясная замороженная, 1/300 .
+https://e-dostavka.by/catalog/item_1013390.html	Гамбургер с говядиной, замороженный, 1/250 .
+https://e-dostavka.by/catalog/item_862819.html	Бурито с ветчиной и сыром, 265 г.
+https://e-dostavka.by/catalog/item_862820.html	Бурито с курицей, 265 г.
+https://e-dostavka.by/catalog/item_1013295.html	Чиабатта с лососем и сливочным сыром замороженное, 1/220 .
+b'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2866.71 Safari/537.36'
+https://e-dostavka.by/catalog/item_1013286.html	Суп-пюре из брокколи, замороженный, 1/250.
+https://e-dostavka.by/catalog/item_1058186.html	Солянка сборная мясная замороженная, 250  г
+https://e-dostavka.by/catalog/item_1058190.html	Суп-пюре из тыквы пряный замороженный, 250  г.
+https://e-dostavka.by/catalog/item_1013385.html	Борщ с говядиной, замороженный, 1/250 .
+https://e-dostavka.by/catalog/item_1013283.html	Суп-пюре гороховый, замороженный, 1/250.
+https://e-dostavka.by/catalog/item_1013287.html	Суп-пюре из птицы, замороженный, 1/250.
+https://e-dostavka.by/catalog/item_1013290.html	Суп-пюре с грибами, замороженный, 1/250.
+b'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36'
+https://e-dostavka.by/catalog/item_1015223.html	Сырники жаренные замороженные, 1/200  г.
+https://e-dostavka.by/catalog/item_1013392.html	Запеканка из творога с изюм ом, замороженная, 1/200 .
+https://e-dostavka.by/catalog/item_1015205.html	Блинчики ванильные с творогом замороженные, 1/200  г.
+https://e-dostavka.by/catalog/item_1013393.html	Запеканка из творога с курагой, замороженная, 1/200 .
+https://e-dostavka.by/catalog/item_1013381.html	Блинчики тонкие с джемом замороженные, 1/150/50  г.
+https://e-dostavka.by/catalog/item_1013380.html	Блинчики с ветчиной и сыром , замороженные, 1/200 .
+https://e-dostavka.by/catalog/item_997356.html	Блинчики укропные с ветчиной и сыром замороженные, 1/200  г.
+https://e-dostavka.by/catalog/item_1013383.html	Блинчики шпинатные с лососем и сливочным сыром замороженные, 1/200  г.
+b'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36'
+https://e-dostavka.by/catalog/item_1015232.html	Драники «По-домашнему» с курицей, замороженные, 1/200 г .
+https://e-dostavka.by/catalog/item_997368.html	Драники «По-домашнему» с мясом, замороженные, 1/200.
+https://e-dostavka.by/catalog/item_979921.html	Говяжья печень в сметанном соусе с макаронами, замороженная, 1/150/120 г .
+https://e-dostavka.by/catalog/item_832829.html	Голубцы с куриной грудкой, 2 шт, 260  г.
+https://e-dostavka.by/catalog/item_979932.html	Печень куриная тушеная с овощами и кус-кусом, замороженная, 150/150 .
+https://e-dostavka.by/catalog/item_987096.html	Спагетти с соусом «Болоньезе» замороженные, 250  г.
+https://e-dostavka.by/catalog/item_982718.html	Котлета «По-киевски» с картофельным пюре, замороженная, 125/150 .
+https://e-dostavka.by/catalog/item_979926.html	Котлеты рубленые из птицы с гречневой кашей и грибами , 100/150 .
+https://e-dostavka.by/catalog/item_979931.html	Котлеты рубленые мясные с макаронами и грибным соусом, 100/120/30.
+https://e-dostavka.by/catalog/item_852426.html	Филе куриное запеченное с ананасом и рисом, 1/120/150 г .
+https://e-dostavka.by/catalog/item_979925.html	Шницель «Полесский» с овощным гарниром, 125/150 г.
+https://e-dostavka.by/catalog/item_979955.html	Свинина «Пикантная» с чечевицей и овощами, 100/150  г.
+b'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.155 Safari/537.36'
+https://e-dostavka.by/catalog/item_832707.html	Фарш из говядины замороженный, 1 кг.
+https://e-dostavka.by/catalog/item_988070.html	Продукт из шпика «Шпик рубленый» замороженный, 1/500 .
+https://e-dostavka.by/catalog/item_969698.html	Фарш для ленивых голубцов замороженный, 1/1000 .
+https://e-dostavka.by/catalog/item_969706.html	Фарш для тефтелей замороженный, 1/1000 .
+https://e-dostavka.by/catalog/item_993384.html	Фарш из филе цыпленка замороженный, 1 кг.
+https://e-dostavka.by/catalog/item_969711.html	Фарш из филе цыпленка со шпиком замороженный, 1/1000 .
+https://e-dostavka.by/catalog/item_993379.html	Фарш свинина-курица замороженный, 1/1000.
+https://e-dostavka.by/catalog/item_832723.html	Фарш из филе цыпленка замороженный 1 кг.
+https://e-dostavka.by/catalog/item_969709.html	Фарш из говядины со шпиком замороженный, 1/1000 .
+https://e-dostavka.by/catalog/item_862488.html	Фарш свинина-курица замороженный, 1 кг.
+https://e-dostavka.by/catalog/item_835973.html	Фарш из свинины замороженный 1 кг.
+https://e-dostavka.by/catalog/item_964686.html	Фарш индейка-курица замороженная, 1/1000.
+b'Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2919.83 Safari/537.36'
+https://e-dostavka.by/catalog/item_1059830.html	Чечевица с овощами и грибами готовая замороженная, 1/600
+https://e-dostavka.by/catalog/item_1059824.html	Картофель печеный с зеленью готовый замороженный, 600  г
+https://e-dostavka.by/catalog/item_1059826.html	Картофельное пюре , замороженное 600  г.
+https://e-dostavka.by/catalog/item_1059829.html	Лобио из фасоли замороженное, 800  г.
+https://e-dostavka.by/catalog/item_1059802.html	Драники по-домашнему с курицей замороженные, 1/600
+https://e-dostavka.by/catalog/item_1059834.html	Сырники жареные, замороженные, 1/600
+https://e-dostavka.by/catalog/item_1059831.html	Голубцы с птицей(гот.зам)1/780г
+https://e-dostavka.by/catalog/item_1059808.html	Драники по-домашнему с мясом замороженные, 1/600
+https://e-dostavka.by/catalog/item_1059827.html	Котлета рубленая из птицы, жаренная замороженная 500  г.
+https://e-dostavka.by/catalog/item_1059832.html	Голубцы со свининой и говядиной гототовые замороженные 1/780  г.
+https://e-dostavka.by/catalog/item_1059828.html	Филе цыпленка-гриль с зеленым маслом, жаренное, замороженное, 400/80
+https://e-dostavka.by/catalog/item_1059837.html	Филе птицы со шпинатом запеченное замороженное, 1/600.
+b'Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36'
+https://e-dostavka.by/catalog/item_963191.html	Торт «Восточная сказка Люкс» замороженный, 70 г.
+https://e-dostavka.by/catalog/item_1015211.html	Десерт «Домашний графский» 1/390 .
+https://e-dostavka.by/catalog/item_1015213.html	Десерт «Кофейный» с савоярди, 1/300 .
+https://e-dostavka.by/catalog/item_963198.html	Торт «День и ночь Люкс» замороженный, 70  г.
+https://e-dostavka.by/catalog/item_963196.html	Торт «Медуница» замороженный, 70 г
+https://e-dostavka.by/catalog/item_1015946.html	Чизкейк «Карамельный» с арахисом, замороженный , 86 г.
+https://e-dostavka.by/catalog/item_1015324.html	Пирожное «Эклер» мятный, замороженное, 1/70 .
+https://e-dostavka.by/catalog/item_1015216.html	Десерт «Нежный» с бананом, 1/430 .
+https://e-dostavka.by/catalog/item_1015942.html	Чизкейк «Карамельный с арахисом» замороженный , 1200 г.
+https://e-dostavka.by/catalog/item_957707.html	Торт «Восточная сказка Люкс» замороженный , 960  г.
+https://e-dostavka.by/catalog/item_957709.html	Торт «День и ночь Люкс» замороженный , 960  г.
+https://e-dostavka.by/catalog/item_957716.html	Торт «Медуница» замороженный , 960 г.
+b'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2762.73 Safari/537.36'
+https://e-dostavka.by/catalog/item_1013332.html	Картофельное пюре, готовое, замороженное, 200 г.
+https://e-dostavka.by/catalog/item_1013345.html	Макаронные изделия, отварные , замороженные, 200 г.
+https://e-dostavka.by/catalog/item_997357.html	Булгур с овощами готовый замороженный, 1/150
+https://e-dostavka.by/catalog/item_1022578.html	Чечевица с овощами и грибами, готовая, замороженная, 1/150.
+https://e-dostavka.by/catalog/item_1013336.html	Картофельные дольки, запеченные, замароженные, 200 г.
+https://e-dostavka.by/catalog/item_997353.html	Лобио из фасоли, готовое, замороженное, 1/150
+https://e-dostavka.by/catalog/item_1013266.html	Фасоль спаржевая жареная с чесноком, замороженная, 1/200
+https://e-dostavka.by/catalog/item_1015212.html	Котлеты нутовые, готовые, замороженные, 1/200
+https://e-dostavka.by/catalog/item_1013282.html	Филе цыпленка - гриль с зеленым маслом, жаренное, замороженное, 1/100/20
+https://e-dostavka.by/catalog/item_832868.html	Куриная грудка со шпинатом запеченная замороженная, 1/150 г.
+https://e-dostavka.by/catalog/item_1013279.html	Стейк из свинины с папричным соусом жаренный замороженный, 1/120/50 г.
+https://e-dostavka.by/catalog/item_997364.html	Филе птицы под сырной подушкой запеченное замороженное, 1/150 г.
+b'Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2919.83 Safari/537.36'
+https://e-dostavka.by/catalog/item_1006582.html	Полуфабрикат Тефтели из птицы, замороженные, 1/600
+https://e-dostavka.by/catalog/item_957628.html	Полуфабрикат Утка фаршированная «Сюрприз» замороженная, 1 кг., 
+https://e-dostavka.by/catalog/item_943998.html	Полуфабрикат из овощей «Быстрый ужин» 500 г.
+https://e-dostavka.by/catalog/item_979950.html	Полуфабрикат «Фарш из печени куриной для оладий», замороженный, 500 г.
+https://e-dostavka.by/catalog/item_979943.html	Полуфабрикат из субпродуктов «Фарш из печени говяжьей для оладий» 1/500 .
+https://e-dostavka.by/catalog/item_1058171.html	Полуфабрикат Биточки «Чижовские» замороженные, 1/600
+https://e-dostavka.by/catalog/item_1059675.html	Полуфабрикат «Шницель Полесский» замороженный , 1/600 .
+https://e-dostavka.by/catalog/item_1059671.html	Полуфабрикат Биточки «Особые» замороженные, 600г
+https://e-dostavka.by/catalog/item_832770.html	Полуфабрикат Голубцы с куриной грудкой, замороженный, 1/1000, 
+https://e-dostavka.by/catalog/item_832772.html	Полуфабрикат Голубцы со свининой и говядиной, замороженные, 1/1000
+https://e-dostavka.by/catalog/item_1059672.html	Полуфабрикат котлета «Папараць-кветка» замороженная, 600  г.
+https://e-dostavka.by/catalog/item_1006583.html	Полуфабрикат Тефтели из свинины и говядины, замороженные, 1/600
+b'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2656.18 Safari/537.36'
+https://e-dostavka.by/catalog/item_987108.html	Полуфабрикат в тесте «Вареники с картофелем и луком» замороженный, 400  г.
+https://e-dostavka.by/catalog/item_876764.html	Домашние пельмени с курицей, 400 г.
+https://e-dostavka.by/catalog/item_876765.html	Пельмени с говядиной, 1/400 г.
+https://e-dostavka.by/catalog/item_876769.html	Пельмени домашние со свининой и говядиной, 1/400 г.
+https://e-dostavka.by/catalog/item_876772.html	Пельмени с индейкой, 1/400 г.
+https://e-dostavka.by/catalog/item_936616.html	Пельмени «Ароматные» 1 кг., 
+https://e-dostavka.by/catalog/item_876774.html	Пельмени шпинатные с кроликом, 1/400 г.
+https://e-dostavka.by/catalog/item_876768.html	Пельмени с семгой, 1/400 г.
